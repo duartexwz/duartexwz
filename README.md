@@ -19,22 +19,30 @@ Tenho interesse em **desenvolvimento backend**, automação e sistemas de atendi
 
 ---
 
-## 📌 Projeto em Destaque
+Ficou ótimo o seu modelo! Vou adaptar agora para os detalhes técnicos do DATASYSTEM, que é um projeto de gestão muito mais robusto por causa da criptografia e da arquitetura de pastas que vimos no seu VS Code.
 
-### 🦷 Chatbot – Clínica Odonto Silva
+Aqui está o texto editado e pronto para você usar no seu README.md do GitHub ou no LinkedIn:
 
-Chatbot desenvolvido em Python para simular o atendimento inicial de uma clínica odontológica.
+📌 Projeto em Destaque
 
-**Funcionalidades:**
+📂 DATASYSTEM – Gestão de Funcionários
+Sistema de gerenciamento de dados (CRUD) desenvolvido em Python, focado em segurança da informação e organização modular para administração de recursos humanos.
 
-* Atendimento automatizado inicial
-* Agendamento de consultas
-* Cálculo de idade a partir da data de nascimento
-* Sorteio de datas e horários disponíveis
-* Armazenamento de consultas em JSON
-* Redirecionamento para atendente humano via WebSocket
+Funcionalidades:
 
-🔗 Repositório: [https://github.com/SEU-USUARIO/chatbot-clinica-odonto-silva](https://github.com/mayckonduarte/chatbot-clinica-odonto-silva)
+CRUD Completo: Cadastro, leitura, atualização e exclusão de registros de funcionários.
+
+Segurança Avançada: Sistema de autenticação com criptografia PBKDF2_SHA256 para proteção de senhas.
+
+Persistência de Dados: Manipulação e armazenamento seguro de informações em formato JSON.
+
+Arquitetura Modular: Organização profissional de pastas (core, src, utils), facilitando a manutenção e escalabilidade do código.
+
+Tratamento de Exceções: Lógica preparada para lidar com erros de entrada e falhas de diretório, garantindo a estabilidade do sistema.
+
+🔗 Repositório: https://github.com/duartexwz/Estudando-CRUD-JSON
+
+💡 Dica para o seu README no GitHub:
 
 ---
 
