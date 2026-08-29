@@ -57,7 +57,7 @@ Tratamento de Exceções: Lógica preparada para lidar com erros de entrada e fa
 
 ## 🤝 Contato
 
-* GitHub: [https://github.com/SEU-USUARIO](https://github.com/mayckonduarte)
+* GitHub: [https://github.com/SEU-USUARIO](https://github.com/duartexwz)
 * LinkedIn: (adicione aqui quando tiver)
 
 ---
