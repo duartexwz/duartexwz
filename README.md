@@ -1,64 +1,57 @@
-# 👋 Olá, eu sou Mayckon Duarte
+👋 Olá, eu sou Mayckon Duarte
+🚀 Sobre mim
+Sou estudante de Engenharia de Software e desenvolvedor Full-Stack em formação, com foco em backend (Python) sem perder o frontend de vista. Aprendo construindo: já coloquei um e-commerce real em produção e participei do backend de um sistema institucional de agendamento.
 
-## 🚀 Sobre mim
+📌 Projetos em Destaque
+🛍️ JP CROCO — Loja Online (produção)
+E-commerce completo no ar: vitrine, sacola por usuário, checkout e painel admin.
 
-Sou estudante de programação com foco em **Python**, atualmente desenvolvendo projetos práticos para consolidar meus conhecimentos em lógica, estrutura de dados, automação e comunicação em tempo real.
+Frontend: React + Vite (SPA, responsiva, code-split)
+Backend: FastAPI + PostgreSQL (Neon), deploy serverless na Vercel
+Pagamento: Mercado Pago — Pix com confirmação automática (polling + webhook), Brick, baixa de estoque
+Frete real: SuperFrete/Melhor Envio (cotação por CEP, etiquetas, rastreio)
+Extras: JWT com refresh silencioso, upload no Vercel Blob, push no aparelho do admin, variantes cor × tamanho
+📅 Sistema de Reservas Institucionais — COFFITO (backend)
+Participei do backend do sistema de solicitação, análise e acompanhamento de reservas de espaços institucionais.
 
-Tenho interesse em **desenvolvimento backend**, automação e sistemas de atendimento automatizado.
+API: FastAPI + PostgreSQL, autenticação por cookie HttpOnly (access + refresh token) com CSRF
+Domínio: reservas, espaços, recursos, status, histórico e auditoria, notificações por e-mail
+Fluxos público (solicitação sem login) e interno (painel, agenda, administração por perfil)
+Ambiente de homologação com Docker Compose (API + frontend + Postgres + Mailpit)
+🔗 Repositório: https://github.com/duartexwz/JpCroco
 
----
 
-## 🛠️ Tecnologias que estou estudando
 
-* Python
-* FastAPI
-* WebSockets
-* Git & GitHub
-* JSON
-* Manipulação de datas e arquivos
+💅 Ana Clara Nails — Sistema de Agendamento (full-stack)
+Sistema completo de agendamento para nail designer: catálogo de modelos, reserva de horários com sinal de 50%, painel administrativo e controle de clientes.
 
----
 
-Ficou ótimo o seu modelo! Vou adaptar agora para os detalhes técnicos do DATASYSTEM, que é um projeto de gestão muito mais robusto por causa da criptografia e da arquitetura de pastas que vimos no seu VS Code.
+Frontend: React + TanStack Start (SSR, responsivo), Tailwind + shadcn
+Backend: FastAPI + PostgreSQL (asyncpg), JWT em cookie HttpOnly com CSRF
+Pagamento: Mercado Pago Checkout Bricks (Pix com QR Code + cartão), webhook com validação HMAC, conciliação automática do status do agendamento
+Qualidade: ~175 testes pytest, ruff, integração front↔back com fallback mockado
+🔗 Repositório: https://github.com/duartexwz/nail-appointment
 
-Aqui está o texto editado e pronto para você usar no seu README.md do GitHub ou no LinkedIn:
 
-📌 Projeto em Destaque
+📂 DATASYSTEM — Gestão de Funcionários
+Sistema de gerenciamento de dados (CRUD) em Python, focado em segurança e organização.
 
-📂 DATASYSTEM – Gestão de Funcionários
-Sistema de gerenciamento de dados (CRUD) desenvolvido em Python, focado em segurança da informação e organização modular para administração de recursos humanos.
-
-Funcionalidades:
-
-CRUD Completo: Cadastro, leitura, atualização e exclusão de registros de funcionários.
-
-Segurança Avançada: Sistema de autenticação com criptografia PBKDF2_SHA256 para proteção de senhas.
-
-Persistência de Dados: Manipulação e armazenamento seguro de informações em formato JSON.
-
-Arquitetura Modular: Organização profissional de pastas (core, src, utils), facilitando a manutenção e escalabilidade do código.
-
-Tratamento de Exceções: Lógica preparada para lidar com erros de entrada e falhas de diretório, garantindo a estabilidade do sistema.
-
+CRUD completo de funcionários com persistência em JSON
+Autenticação com criptografia PBKDF2_SHA256
+Arquitetura modular (core, src, utils) e tratamento de exceções
 🔗 Repositório: https://github.com/duartexwz/Estudando-CRUD-JSON
-
-💡 Dica para o seu README no GitHub:
-
----
-
-## 📈 O que estou buscando evoluir
-
-* Melhorar a interpretação de mensagens do usuário
-* Aprender bancos de dados (SQLite / PostgreSQL)
-* Criar APIs mais completas
-* Desenvolver projetos mais próximos de cenários reais
-
----
-
-## 🤝 Contato
-
-* GitHub: [https://github.com/SEU-USUARIO](https://github.com/duartexwz)
-
----
-
+🛠️ Tecnologias
+Linguagens: Python, JavaScript
+Backend: FastAPI, JWT, WebSockets, SMTP
+Frontend: React, Vite, Axios, FullCalendar, Bootstrap
+Banco de dados: PostgreSQL, SQLite, JSON
+Infra: Docker, Vercel, Neon, Git & GitHub
+Integrações: Mercado Pago, SuperFrete/Melhor Envio, Correios, ViaCEP, Web Push
+📈 O que estou evoluindo
+Testes automatizados (pytest) e CI
+Conciliação de pagamentos e jobs em background
+Arquitetura de APIs maiores (versionamento, paginação, cache)
+Boas práticas de segurança em produção (secrets, LGPD, rate limiting)
+🤝 Contato
+GitHub: https://github.com/duartexwz
 ⭐ Se gostou de algum projeto, fique à vontade para deixar uma star!
