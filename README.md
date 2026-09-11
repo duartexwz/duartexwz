@@ -36,10 +36,6 @@ Qualidade: ~175 testes pytest, ruff, integração front↔back com fallback mock
 📂 DATASYSTEM — Gestão de Funcionários
 Sistema de gerenciamento de dados (CRUD) em Python, focado em segurança e organização.
 
-CRUD completo de funcionários com persistência em JSON
-Autenticação com criptografia PBKDF2_SHA256
-Arquitetura modular (core, src, utils) e tratamento de exceções
-🔗 Repositório: https://github.com/duartexwz/Estudando-CRUD-JSON
 🛠️ Tecnologias
 Linguagens: Python, JavaScript
 Backend: FastAPI, JWT, WebSockets, SMTP
@@ -47,11 +43,13 @@ Frontend: React, Vite, Axios, FullCalendar, Bootstrap
 Banco de dados: PostgreSQL, SQLite, JSON
 Infra: Docker, Vercel, Neon, Git & GitHub
 Integrações: Mercado Pago, SuperFrete/Melhor Envio, Correios, ViaCEP, Web Push
+
 📈 O que estou evoluindo
 Testes automatizados (pytest) e CI
 Conciliação de pagamentos e jobs em background
 Arquitetura de APIs maiores (versionamento, paginação, cache)
 Boas práticas de segurança em produção (secrets, LGPD, rate limiting)
+
 🤝 Contato
 GitHub: https://github.com/duartexwz
 ⭐ Se gostou de algum projeto, fique à vontade para deixar uma star!
