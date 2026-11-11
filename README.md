@@ -76,14 +76,6 @@ Repositório de estudos e exercícios de desenvolvimento web (JavaScript, DOM, e
 - **Stack:** HTML/CSS/JavaScript
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duartexwz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duartexwz&layout=compact&theme=tokyonight&hide_border=true)
----
-
 ### 📫 Contato
 
 - **GitHub:** [@duartexwz](https://github.com/duartexwz)
