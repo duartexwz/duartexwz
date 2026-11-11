@@ -1,55 +1,33 @@
-👋 Olá, eu sou Mayckon Duarte
-🚀 Sobre mim
-Sou estudante de Engenharia de Software e desenvolvedor Full-Stack em formação, com foco em backend (Python) sem perder o frontend de vista. Aprendo construindo: já coloquei um e-commerce real em produção e participei do backend de um sistema institucional de agendamento.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=160&section=header&text=Olá,%20Mundo!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-📌 Projetos em Destaque
-🛍️ JP CROCO — Loja Online (produção)
-E-commerce completo no ar: vitrine, sacola por usuário, checkout e painel admin.
+### 💻 Sobre Mim
+Desenvolvedor Backend & Full-Stack em formação, focado em criar aplicações robustas, APIs eficientes e arquiteturas limpas. Apaixonado por resolver problemas complexos e entregar sistemas web completos.
 
-Frontend: React + Vite (SPA, responsiva, code-split)
-Backend: FastAPI + PostgreSQL (Neon), deploy serverless na Vercel
-Pagamento: Mercado Pago — Pix com confirmação automática (polling + webhook), Brick, baixa de estoque
-Frete real: SuperFrete/Melhor Envio (cotação por CEP, etiquetas, rastreio)
-Extras: JWT com refresh silencioso, upload no Vercel Blob, push no aparelho do admin, variantes cor × tamanho
-📅 Sistema de Reservas Institucionais — COFFITO (backend)
-Participei do backend do sistema de solicitação, análise e acompanhamento de reservas de espaços institucionais.
+- 🔭 Atualmente desenvolvendo sistemas de agendamento e plataformas e-commerce.
+- 🚀 Experiência com **Python (FastAPI)**, **Node.js (Express)**, **TypeScript** e **Docker**.
+- 🎓 Estudante de Engenharia de Software.
 
-API: FastAPI + PostgreSQL, autenticação por cookie HttpOnly (access + refresh token) com CSRF
-Domínio: reservas, espaços, recursos, status, histórico e auditoria, notificações por e-mail
-Fluxos público (solicitação sem login) e interno (painel, agenda, administração por perfil)
-Ambiente de homologação com Docker Compose (API + frontend + Postgres + Mailpit)
-🔗 Repositório: https://github.com/duartexwz/JpCroco
+---
 
+### 🛠️ Tecnologias & Ferramentas
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
 
-💅 Ana Clara Nails — Sistema de Agendamento (full-stack)
-Sistema completo de agendamento para nail designer: catálogo de modelos, reserva de horários com sinal de 50%, painel administrativo e controle de clientes.
+---
 
-
-Frontend: React + TanStack Start (SSR, responsivo), Tailwind + shadcn
-Backend: FastAPI + PostgreSQL (asyncpg), JWT em cookie HttpOnly com CSRF
-Pagamento: Mercado Pago Checkout Bricks (Pix com QR Code + cartão), webhook com validação HMAC, conciliação automática do status do agendamento
-Qualidade: ~175 testes pytest, ruff, integração front↔back com fallback mockado
-🔗 Repositório: https://github.com/duartexwz/nail-appointment
-
-
-📂 DATASYSTEM — Gestão de Funcionários
-Sistema de gerenciamento de dados (CRUD) em Python, focado em segurança e organização.
-
-🛠️ Tecnologias
-Linguagens: Python, JavaScript
-Backend: FastAPI, JWT, WebSockets, SMTP
-Frontend: React, Vite, Axios, FullCalendar, Bootstrap
-Banco de dados: PostgreSQL, SQLite, JSON
-Infra: Docker, Vercel, Neon, Git & GitHub
-Integrações: Mercado Pago, SuperFrete/Melhor Envio, Correios, ViaCEP, Web Push
-
-📈 O que estou evoluindo
-Testes automatizados (pytest) e CI
-Conciliação de pagamentos e jobs em background
-Arquitetura de APIs maiores (versionamento, paginação, cache)
-Boas práticas de segurança em produção (secrets, LGPD, rate limiting)
-
-🤝 Contato
-GitHub: https://github.com/duartexwz
-⭐ Se gostou de algum projeto, fique à vontade para deixar uma star!
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=duartexwz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexwz&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
