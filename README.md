@@ -79,11 +79,11 @@ Repositório de estudos e exercícios de desenvolvimento web (JavaScript, DOM, e
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=duartexwz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <br>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartexwz&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=duartexwz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=duartexwz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
